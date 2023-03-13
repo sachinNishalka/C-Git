@@ -11,6 +11,7 @@ namespace AppGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("This is from the test branch");
         }
     }
 }
